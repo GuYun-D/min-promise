@@ -1,0 +1,20 @@
+{
+  "name": "min-promise",
+  "version": "1.0.0",
+  "description": "Min-Promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuYun-D/min-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuYun-D/min-promise/issues"
+  },
+  "homepage": "https://github.com/GuYun-D/min-promise#readme"
+}
